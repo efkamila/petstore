@@ -1,0 +1,15 @@
+{
+  "forest-name" : "Modules",
+  "host" : "rwamw030699.emea.roche.com",
+  "enabled" : true,
+  "data-directory" : "",
+  "large-data-directory" : "",
+  "fast-data-directory" : "",
+  "fast-data-max-size" : 0,
+  "updates-allowed" : "all",
+  "availability" : "online",
+  "rebalancer-enable" : true,
+  "failover-enable" : true,
+  "database-replication" : null,
+  "database" : "Modules"
+}
