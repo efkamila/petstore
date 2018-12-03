@@ -1,8 +1,7 @@
 plugins { 
   id "com.marklogic.ml-gradle" version "3.9.0"
   id "java"
-  
-}
+  }
 
 task projectInfo {
     doLast {
@@ -11,8 +10,5 @@ task projectInfo {
 println 'Project name:' + name
 println 'projectDir: '+ projectDir
 println 'projectDir list files:'+ projectDir.listFiles()
-
-
-
     }
 }
